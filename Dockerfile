@@ -10,7 +10,7 @@ RUN cd / && \
     git clone https://github.com/Anjana-Ma/CallsMusic-Inuka smp && \
     cd smp/ && \
     rm -r .git && \
-    git clone https://github.com/Anjana-Ma/pytgcalls-Inuka && \
+    git clone https://github.com/inukaasith/pytgcalls && \
     cd pytgcalls/ && \
     rm -r .git && \
     npm install && \
